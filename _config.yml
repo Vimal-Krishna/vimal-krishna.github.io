@@ -3,13 +3,13 @@ title: MyBlog | Vimal Krishna
 email: vimal.krishna.84 (at) gmail.com
 description: Err... May I say something?
 baseurl: ""
-url: "https://vimal-krishna.github.io" #"https://www.rossener.com" # the base hostname & protocol for your site
+url: "https://vimal-krishna.github.io" 
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
 username: Vimal_K
 user_description: Software Someone
-disqus_username: disqus_username
+disqus_username: v1malkr1shna
 
 # Social Media
 # Remove the item if you don't need it
