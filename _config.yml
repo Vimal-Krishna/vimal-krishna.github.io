@@ -1,24 +1,24 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
-baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
-url: "https://www.rossener.com" # the base hostname & protocol for your site
+title: MyBlog | Vimal Krishna
+email: vimal.krishna.84 (at) gmail.com
+description: Err... May I say something?
+baseurl: ""
+url: "https://vimal-krishna.github.io" #"https://www.rossener.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
+username: Vimal_K
+user_description: Software Someone
 disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: vimal-krishna
+facebook_username: datvichrox
+twitter_username: guitarvimal
+instagram_username: datvichrox
+#linkedin_username: linkedin_username
+#medium_username: medium_username
 
 # Build settings
 markdown: kramdown
