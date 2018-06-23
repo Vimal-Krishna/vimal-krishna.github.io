@@ -1,5 +1,5 @@
 # Site Settings
-title: MyBlog | Vimal Krishna
+title: /vimal/blog
 email: vimal.krishna.84@gmail.com
 description: Err... May I say something?
 baseurl: ""
@@ -7,7 +7,7 @@ url: "https://vimal-krishna.github.io"
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Vimal_K
+username: "{vimal}"
 user_description: Software Someone
 disqus_username: https-vimal-krishna-github-io
 
