@@ -62,5 +62,3 @@ What if the apps AppLock and Automate were to be **uninstalled** by the user? Ye
 </p>
 
 After setting up these apps in this way, WiFi is effectively disabled unless the user opens Automate (via AppLock password) and stops the workflow that turns the WiFi off. Otherwise, every other action that causes the WiFi to turn **ON**, would trigger the Automate workflow which will turn the WiFi back **OFF**.
-
--Vimal Krishna

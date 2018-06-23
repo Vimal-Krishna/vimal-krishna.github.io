@@ -44,7 +44,5 @@ Looking at the details of the **job** that was executed, we can see that a docke
 ![](/images/GitLab-CI-Python-2018-06-22-16_15_47.png)
 
 
--Vimal Krishna
-
 
 
