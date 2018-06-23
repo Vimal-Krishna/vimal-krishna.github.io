@@ -2,7 +2,7 @@
 title: pscp and SSH2_MSG_UNIMPLEMENTED error
 date: 2018-04-18 15:26:00 +0530
 layout: post
-image: '/images/thumbs/thumb_GitLab-CI-Python-2018-06-22-16_15_47.png'
+image: 'https://vimal-krishna.github.io/images/thumbs/thumb_GitLab-CI-Python-2018-06-22-16_15_47.png'
 category: 'blog'
 introduction: SSH2_MSG_UNIMPLEMENTED
 description: SSH2_MSG_UNIMPLEMENTED error when using pscp.exe

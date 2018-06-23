@@ -2,7 +2,7 @@
 title: How to restrict WiFi on Android phones (NO ROOT)
 date: 2018-06-19 15:26:00 +0530
 layout: post
-image: '/images/thumbs/thumb_Automate-Workflow-WiFiOff.png'
+image: 'https://vimal-krishna.github.io/images/thumbs/thumb_Automate-Workflow-WiFiOff.png'
 category: 'blog'
 introduction: Effectively disable WiFi without root
 description: Learn how to restrict WiFi on Android phones using a password (No rooting required)

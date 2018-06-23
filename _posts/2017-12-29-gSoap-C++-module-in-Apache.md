@@ -4,7 +4,7 @@ title: gSoap C++ module in Apache server
 date: '2017-12-29 15:26:00 +0530'
 layout: post
 description: Working instructions to install gSoap as a C++ module in Apache
-image: '/images/gSoapCppApache.png'
+image: 'https://vimal-krishna.github.io/images/gSoapCppApache.png'
 category: 'blog'
 introduction: Working instructions to install gSoap as a C++ module in Apache
 published: true
