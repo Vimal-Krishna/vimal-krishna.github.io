@@ -2,7 +2,7 @@
 title: Something in Win10 is eating my RAM
 date: 2018-02-26 15:26:00 +0530
 layout: post
-image: '../images/thumbs/thumb_Win10-RAM-Usage-2018-02-26-17_52_24.png'
+image: '/images/thumbs/thumb_Win10-RAM-Usage-2018-02-26-17_52_24.png'
 category: 'blog'
 introduction: When 16GB of RAM is not enough!
 description: Something's eating my RAM in Windows 10.

@@ -4,7 +4,7 @@ title: An alternative to Putty and Vi
 date: '2017-10-23 15:26:00 +0530'
 layout: post
 description: Exploring Netbeans IDE as a remote development tool
-image: '../images/thumbs/thumb_netbeans-ide-remote.png'
+image: '/images/thumbs/thumb_netbeans-ide-remote.png'
 category: 'blog'
 introduction: Exploring Netbeans IDE as a remote development tool
 published: true

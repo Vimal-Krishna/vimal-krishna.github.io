@@ -2,7 +2,7 @@
 title: Simple Intro to GitLab CI
 date: 2018-06-22 16:00:00 +0530
 layout: post
-image: '../images/thumbs/thumb_GitLab-CI-Python-2018-06-22-16_15_47.png'
+image: '/images/thumbs/thumb_GitLab-CI-Python-2018-06-22-16_15_47.png'
 category: 'blog'
 introduction: Get started with simple code
 description: How to configure GitLab for a barebones continuous integration setup.
