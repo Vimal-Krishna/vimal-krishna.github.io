@@ -9,7 +9,7 @@ permalink: /about/
 
 ## About
 
-Hi! I'm writing this blog to document my experiences with various technology. It may be of use to me or someone else in the future.
+Hi! I'm writing this blog to document my experiences with various technologies. It may be of use to me or someone else in the future.
 
 Thanks for stopping by.
 
