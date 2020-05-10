@@ -82,7 +82,7 @@ listening on eth1, link-type EN10MB (Ethernet), capture size 262144 bytes
 ````
 **Step5**: Enable communication between container and host.
 
-By default, the docker container on mac0 will not be able to communicate with the docker host. This is by design with macvlan networks.
+By default, the docker container on mac1 will not be able to communicate with the docker host on eth1. This is by design with macvlan networks.
 
 ````bash
 c2af4dbe07ce:/ # ping -c 1 10.0.2.4
