@@ -13,7 +13,7 @@ published: true
 
 **This page will serve as an archive for all the different MIDI commands that I have discovered so far that works with the ZOOM G1X Four.**
  
-![_config.yml]({{ site.baseurl }}/images/macvlan_virtualbox_promiscuous_mode.png)
+![_config.yml]({{ site.baseurl }}/images/thumbs/thumb_Zoom-Midi-Config.png)
 
 I will add more details and explanation as I find time. 
 
