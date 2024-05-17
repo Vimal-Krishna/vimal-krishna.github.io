@@ -18,32 +18,27 @@ I will add more details and explanation as I find time.
 **Bank Selection**
 Switch to Bank 1:
 ````bash
-CC 0 0 
-CC 32 0
+CC 0 0 CC 32 0
 ````
 
 Switch to Bank 2:
 ````bash
-CC 0 0 
-CC 32 1
+CC 0 0 CC 32 1
 ````
 
 Switch to Bank 3:
 ````bash
-CC 0 0 
-CC 32 2
+CC 0 0 CC 32 2
 ````
 
 Switch to Bank 4:
 ````bash
-CC 0 0 
-CC 32 3
+CC 0 0 CC 32 3
 ````
 
 Switch to Bank 5:
 ````bash
-CC 0 0 
-CC 32 4
+CC 0 0 CC 32 4
 ````
 
 **Patch Selection with the Selected Bank**
@@ -100,36 +95,30 @@ PC 9 0
 **Effect Slot Toggle**
 Toggle Slot 1
 ````bash
-f052006e6403000a010000000000f7
-f052006e6403000a030100000000f7
+f0 52 00 6e 64 03 00 0a 01 00 00 00 00 00 f7 f0 52 00 6e 64 03 00 0a 03 01 00 00 00 00 f7
 ````
 
 Toggle Slot 2
 ````bash
-f052006e6403000a010100000000f7
-f052006e6403000a030100000000f7
+f0 52 00 6e 64 03 00 0a 01 01 00 00 00 00 f7 f0 52 00 6e 64 03 00 0a 03 01 00 00 00 00 f7
 ````
 
 Toggle Slot 3
 ````bash
-f052006e6403000a010200000000f7
-f052006e6403000a030100000000f7
+f0 52 00 6e 64 03 00 0a 01 02 00 00 00 00 f7 f0 52 00 6e 64 03 00 0a 03 01 00 00 00 00 f7
 ````
 
 Toggle Slot 4
 ````bash
-f052006e6403000a010300000000f7
-f052006e6403000a030100000000f7
+f0 52 00 6e 64 03 00 0a 01 03 00 00 00 00 f7 f0 52 00 6e 64 03 00 0a 03 01 00 00 00 00 f7
 ````
 
 Toggle Slot 5
 ````bash
-f052006e6403000a010400000000f7
-f052006e6403000a030100000000f7
+f0 52 00 6e 64 03 00 0a 01 04 00 00 00 00 f7 f0 52 00 6e 64 03 00 0a 03 01 00 00 00 00 f7
 ````
 
 Toggle Slot 6
 ````
-f052006e6403000a010500000000f7
-f052006e6403000a030100000000f7
+f0 52 00 6e 64 03 00 0a 01 05 00 00 00 00 f7 f0 52 00 6e 64 03 00 0a 03 01 00 00 00 00 f7
 ````
